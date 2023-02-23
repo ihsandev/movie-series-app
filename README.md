@@ -21,6 +21,7 @@ Yes, we need to improve the UI first for a good User Experience, refactor the co
 
 ## What would you do differently if you were allocated more time?
 I think according to improvements part we need to good UI/UX and more refactor the code
+and I need to created the detail of each movie/series on the web
 
 ## Deploy on Vercel
 
